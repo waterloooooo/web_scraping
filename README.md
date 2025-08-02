@@ -18,3 +18,9 @@ Make sure you have Python 3 installed, and install required libraries:
 
 ```bash
 pip install requests beautifulsoup4
+
+Usage
+Once the prerequisites are installed, you can run the scripts from the command line like this:
+python web_scraping_movies.py
+python web_scraping_quotes.py
+python web_scraping_news.py
